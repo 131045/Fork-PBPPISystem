@@ -1,0 +1,12 @@
+d:\documents\visual studio 2015\Projects\Integrated_System\Integrated_System\bin\Debug\Integrated_System.exe.config
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\bin\Debug\Integrated_System.exe
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\bin\Debug\Integrated_System.pdb
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\bin\Debug\MySql.Data.dll
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\obj\Debug\Integrated_System.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\obj\Debug\Integrated_System.Home.resources
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\obj\Debug\Integrated_System.Main.resources
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\obj\Debug\Integrated_System.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\obj\Debug\Integrated_System.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\obj\Debug\Integrated_System.exe
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\obj\Debug\Integrated_System.pdb
+D:\Documents\Visual Studio 2015\Projects\Integrated_System\Integrated_System\bin\Debug\System.Data.dll
